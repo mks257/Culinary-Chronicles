@@ -1,5 +1,13 @@
+html {
+    font-family: 'Merienda', sans-serif;
+}
+
 body {
+    
     background-color: beige;
+    background-image: url("https://st2.depositphotos.com/3283585/6045/v/950/depositphotos_60459125-stock-illustration-vector-pattern-with-hand-drawn.jpg");
+    background-size: 100% auto;
+    background-repeat:repeat;
     font-size: 20px;
 }
 
@@ -21,7 +29,7 @@ h1, h2, h3 {
 }
 
 ol {
-    margin: -20px auto 40px;
+    margin: 0px auto 40px;
 }
 
 #cuisines-section {
@@ -46,10 +54,21 @@ ol {
     font-size: 30px;
     margin: auto 0 20px 0;
     text-align: center;
+    font-weight: 800;
 }
 
 a img {
     width: 700px;
     height: 500px;
     border-radius: 40px;
+}
+
+.opacity {
+    font-weight: 800;
+
+}
+
+h2{
+    font-size: 40px;
+    
 }
